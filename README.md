@@ -14,7 +14,16 @@ Data has been provided for an animal study in which 250 mice were identified wit
  
 **Analysis**
  
- The following tasks were peformed:
+ The following tables/ figures were created:
+ 
+* A summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
+* Bar plot that shows the number of data points for each treatment regimen.
+* Pie plot that shows the distribution of female or male mice in the study.
+* Final tumor volume of each mouse was calculated across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Quartiles and IQR were also calculated to quantitatively determine if there were any potential outliers across all four treatment regimens.
+* Box and whisker plot of the final tumor volume for all four treatment regimens. Any potential outliers in the plot were highlighted.
+* Line plot of time point versus tumor volume for a single mouse treated with Capomulin.
+* Scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
+Correlation coefficient and linear regression model was also calculated and plotted.
  
  
 **Observations**
